@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ([URL](https://github.com/felix-toledo/nft-challenge-frontendmentor)
-- Live Site URL: ([URL](https://felix-toledo.github.io/nft-challenge-frontendmentor/)
+- Solution URL: [Solution](https://github.com/felix-toledo/nft-challenge-frontendmentor)
+- Live Site URL: [Live](https://felix-toledo.github.io/nft-challenge-frontendmentor/)
 
 ## My process
 
